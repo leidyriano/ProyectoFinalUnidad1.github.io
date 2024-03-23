@@ -1,0 +1,21 @@
+body {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+/* *********************/
+/* seccion I N I C I O */
+/* *********************/
+
+
+.bg-light-opalescent {
+    background: linear-gradient(to right, rgba(14, 177, 218, 0.8), rgba(127, 236, 225, 0.1));
+}
+
+/* Estilos para el carousel */
+.carousel-item img {
+    width: 60%;
+    height: 200px;
+    /* Altura deseada del carousel */
+    object-fit: cover;
+}
+
